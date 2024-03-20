@@ -3,8 +3,8 @@ Lipo battery charger with 3.3v fixed output. TP4056 IC used for charging. DWO1-A
 
 
 ## 3d View
-![Back](/images/back.png)
 ![Front](/images/front.png)
+![Back](/images/back.png)
 
 ## Finished board
 ![pcb](/images/image1.png)
